@@ -1,0 +1,2 @@
+Agora eu sei clonar respositórios
+Depois de fechar vim
